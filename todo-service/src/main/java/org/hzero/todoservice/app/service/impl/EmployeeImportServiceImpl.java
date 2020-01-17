@@ -53,9 +53,6 @@ public class EmployeeImportServiceImpl extends ImportHandler {
     @Override
     public void onStart() {
         args = getArgs();
-//        for (String key : args.keySet()) {
-//            log.info("@args ==>> key : {} -- value : {}", key, args.get(key));
-//        }
         Iterator<Map.Entry<String, Object>> iterator = args.entrySet().iterator();
         while (iterator.hasNext()) {
             Map.Entry<String, Object> entry = iterator.next();
