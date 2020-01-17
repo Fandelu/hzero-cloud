@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="032b0f24-c3e2-4e21-b58f-4c4dce19ee76" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/hzero-register/target/" />
+    <ignored path="$PROJECT_DIR$/hzero-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/hzero-config/target/" />
+    <ignored path="$PROJECT_DIR$/hzero-oauth/target/" />
+    <ignored path="$PROJECT_DIR$/hzero-swagger/target/" />
+    <ignored path="$PROJECT_DIR$/hzero-iam/target/" />
+    <ignored path="$PROJECT_DIR$/hzero-platform/target/" />
+    <ignored path="$PROJECT_DIR$/hzero-file/target/" />
+    <ignored path="$PROJECT_DIR$/hzero-message/target/" />
+    <ignored path="$PROJECT_DIR$/hzero-import/target/" />
+    <ignored path="$PROJECT_DIR$/hand-register/target/" />
+    <ignored path="$PROJECT_DIR$/hand-config/target/" />
+    <ignored path="$PROJECT_DIR$/hzero-importx/target/" />
+    <ignored path="$PROJECT_DIR$/todo-service/target/" />
+    <ignored path="$PROJECT_DIR$/hzero-todo-service/target/" />
+    <ignored path="$PROJECT_DIR$/file/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hzero-cloud" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todo-service/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todo-service/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/impl/EmployeeServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/impl/EmployeeImportServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2339#2340#0" expanded="true" />
+                <element signature="e#2436#2437#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-import/1.2.0.RELEASE/hzero-boot-import-1.2.0.RELEASE.jar!/org/hzero/boot/imported/app/service/impl/ImportDataServiceImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="185" selection-start-line="185" selection-end-line="185" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>redis</find>
+      <find>token</find>
+      <find>selectByP</find>
+      <find>Properties</find>
+      <find>properties</find>
+      <find>Delete</find>
+      <find>租户级删除编码规则</find>
+      <find>spring-boot-starter</find>
+      <find>noticeBody</find>
+      <find>fromDate</find>
+      <find>serverName</find>
+      <find>containsDeletedDataFlag</find>
+      <find>&lt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hzero-todo-service/src/main/java/org/hzero/todo/HzeroTodoServiceApplication.java" />
+        <option value="$PROJECT_DIR$/hzero-todo-service/src/main/java/org/hzero/todo/TodoServiceApplication.java" />
+        <option value="$PROJECT_DIR$/hzero-todo-service/src/main/java/org/hzero/todo/api/controller/v1/TaskController.java" />
+        <option value="$PROJECT_DIR$/hzero-todo-service/src/main/java/org/hzero/todo/domain/repository/TaskRepository.java" />
+        <option value="$PROJECT_DIR$/hzero-todo-service/src/main/java/org/hzero/todo/domain/entity/Task.java" />
+        <option value="$PROJECT_DIR$/hzero-todo-service/src/main/resources/mapper/TaskMapper.xml" />
+        <option value="$PROJECT_DIR$/hzero-todo-service/src/main/java/org/hzero/todo/infra/mapper/TaskMapper.java" />
+        <option value="$PROJECT_DIR$/hzero-todo-service/src/main/java/org/hzero/todo/infra/repository/impl/TaskRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hand/todoservice/TodoServiceApplication.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hand/todoservice/config/SwaggerApiConfig.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hand/todoservice/config/TodoServiceExtraDataConfig.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/resources/mapper/TodoEmployeeMapper.xml" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/TodoServiceApplication.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/infra/mapper/TaskMapper.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/api/controller/dto/TaskQueryDTO.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/EmployeeService.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/domain/repository/TaskRepository.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/domain/entity/Employee.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/infra/repository/impl/TaskRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/hzero-register/pom.xml" />
+        <option value="$PROJECT_DIR$/hzero-register/src/main/java/org/hzero/register/HzeroRegisterApplication.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/TaskService.java" />
+        <option value="$PROJECT_DIR$/hzero-file/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hzero-file/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hzero-file/pom.xml" />
+        <option value="$PROJECT_DIR$/hzero-file/src/main/java/org/hzero/file/HzeroFileApplication.java" />
+        <option value="$PROJECT_DIR$/hzero-message/src/main/java/com/hzero/message/HzeroMessageApplication.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/hzero-file/src/main/java/org/hand/file/HzeroFileApplication.java" />
+        <option value="$PROJECT_DIR$/hzero-todo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/hzero-todo-service/src/main/java/org/hzero/todoservice/app/service/impl/TodoEmployeeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/hzero-todo-service/src/main/java/org/hzero/todoservice/HzeroTodoServiceApplication.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/resources/mapper/TaskMapper.xml" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/api/controller/v1/TaskController.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/impl/TaskServiceImpl.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/api/controller/v1/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/domain/entity/Task.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/api/controller/v1/FileClientController.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/config/SwaggerApiConfig.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/api/controller/v1/MessageClientController.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/impl/ValidataServiceImpl.java" />
+        <option value="$PROJECT_DIR$/todo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/config/TodoExtraDataManager.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/handler/SchedulerHandler.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/handler/ImportHandlerImpl.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/impl/ValidateServiceImpl.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/impl/ImportServiceImpl.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/impl/EmployeeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/impl/EmployeeImportServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hzero-file" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="todo-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="todo-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="411" />
+    <option name="y" value="19" />
+    <option name="width" value="974" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="todo-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="todo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="todo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="todo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="todo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="todo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="todo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="todoservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="todo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="todoservice" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="todo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="todoservice" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="todo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="todoservice" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="todo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="todoservice" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="todo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="todoservice" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hzero-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="todo-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hzero:hzero-import-saas:0.11.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hzero:hzero-import-saas:0.11.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="hzero-import-saas-0.11.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hzero:hzero-import-saas:0.11.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="hzero-import-saas-0.11.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hzero:hzero-import-saas:0.11.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="hzero-import-saas-0.11.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hzero:hzero-import-saas:0.11.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="hzero-import-saas-0.11.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="imported" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hzero:hzero-import-saas:0.11.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="hzero-import-saas-0.11.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="imported" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hzero:hzero-import-saas:0.11.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="hzero-import-saas-0.11.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="imported" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hzero:hzero-import-saas:0.11.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="hzero-import-saas-0.11.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="imported" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hzero:hzero-import-saas:0.11.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="hzero-import-saas-0.11.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="imported" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hzero:hzero-import-saas:0.11.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="hzero-import-saas-0.11.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="imported" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hzero:hzero-import-saas:0.11.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="hzero-import-saas-0.11.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="imported" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hzero-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hzero:hzero-import-saas:0.11.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="hzero-import-saas-0.11.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="hzero" type="462c0819:PsiDirectoryNode" />
+              <item name="imported" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/todo-service/src/main/resources/message" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace\Hzero12\hzero-cloud\todo-service\src\main\resources\message" />
+      <recent name="D:\Workspace\Hzero12\hzero-cloud\hzero-todo-service\src\main\resources" />
+      <recent name="D:\Workspace\Hzero12\hzero-cloud\hzero-message\src\main\resources" />
+      <recent name="D:\Workspace\Hzero12\hzero-cloud\hzero-file\src\main\resources" />
+      <recent name="D:\Workspace\Hzero12\hzero-cloud\hzero-file\src\main\resources\script" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.hzero.todoservice.app.handler" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspace\Hzero12\hzero-cloud\hzero-file\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.19706337" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.TodoServiceApplication">
+    <configuration name="HzeroGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hzero.gateway.HzeroGatewayApplication" />
+      <module name="hzero-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hzero.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="hzero-gateway" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="hzero-gateway" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HzeroConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hzero-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hzero.config.HzeroConfigApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HzeroFileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hzero-file" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hand.file.HzeroFileApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HzeroGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hzero-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hzero.gateway.HzeroGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HzeroIamApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hzero-iam" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hzero.iam.HzeroIamApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HzeroImportxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hzero-importx" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hand.importx.HzeroImportxApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HzeroMessageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hzero-message" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hzero.message.HzeroMessageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HzeroOauthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hzero-oauth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hzero.oauth.HzeroOauthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HzeroPlatformApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hzero-platform" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hand.platform.HzeroPlatformApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HzeroRegisterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hzero-register" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hzero.register.HzeroRegisterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HzeroSwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hzero-swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hzero.swagger.HzeroSwaggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HzeroTodoServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hzero-todo-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hzero.todoservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hzero.todoservice.HzeroTodoServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HzeroTodoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hzero-todo-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hzero.hzerotodoservice.HzeroTodoServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="todo-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.hzero.todoservice.TodoServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HzeroGatewayApplication" />
+      <item itemvalue="Spring Boot.HzeroRegisterApplication" />
+      <item itemvalue="Spring Boot.HzeroConfigApplication" />
+      <item itemvalue="Spring Boot.HzeroGatewayApplication" />
+      <item itemvalue="Spring Boot.HzeroOauthApplication" />
+      <item itemvalue="Spring Boot.HzeroSwaggerApplication" />
+      <item itemvalue="Spring Boot.HzeroIamApplication" />
+      <item itemvalue="Spring Boot.HzeroImportxApplication" />
+      <item itemvalue="Spring Boot.HzeroPlatformApplication" />
+      <item itemvalue="Spring Boot.TodoServiceApplication" />
+      <item itemvalue="Spring Boot.HzeroFileApplication" />
+      <item itemvalue="Spring Boot.HzeroMessageApplication" />
+      <item itemvalue="Spring Boot.HzeroTodoServiceApplication" />
+      <item itemvalue="Spring Boot.HzeroTodoServiceApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HzeroTodoServiceApplication (1)" />
+        <item itemvalue="Application.HzeroGatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="032b0f24-c3e2-4e21-b58f-4c4dce19ee76" name="Default Changelist" comment="" />
+      <created>1576670090648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576670090648</updated>
+      <workItem from="1576670091904" duration="6476000" />
+      <workItem from="1576678821604" duration="92000" />
+      <workItem from="1576718321332" duration="11806000" />
+      <workItem from="1576758866019" duration="3806000" />
+      <workItem from="1577066301498" duration="42033000" />
+      <workItem from="1577322176224" duration="7236000" />
+      <workItem from="1577426213478" duration="6016000" />
+      <workItem from="1577667923839" duration="2369000" />
+      <workItem from="1577693097989" duration="3649000" />
+      <workItem from="1577754509274" duration="113000" />
+      <workItem from="1577754749611" duration="11173000" />
+      <workItem from="1578275343591" duration="41000" />
+      <workItem from="1578540968813" duration="308000" />
+      <workItem from="1578561623715" duration="2717000" />
+      <workItem from="1578621577907" duration="12234000" />
+      <workItem from="1578641610453" duration="9021000" />
+      <workItem from="1578715916624" duration="1560000" />
+      <workItem from="1578877485066" duration="6502000" />
+      <workItem from="1578885223554" duration="14407000" />
+      <workItem from="1578964274490" duration="235000" />
+      <workItem from="1578965206130" duration="16554000" />
+      <workItem from="1579050614451" duration="18496000" />
+      <workItem from="1579137199466" duration="8030000" />
+      <workItem from="1579159751459" duration="8158000" />
+      <workItem from="1579223357720" duration="11133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="203930000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5018868" side_tool="true" weight="0.31240544" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.59070796" visible="true" weight="0.21331316" />
+      <window_info id="Structure" order="7" sideWeight="0.40929204" side_tool="true" weight="0.36535552" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="0" sideWeight="0.79878974" visible="true" weight="0.2913257" />
+      <window_info anchor="bottom" id="Spring" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.34697217" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.20121029" side_tool="true" weight="0.21931261" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.36006546" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.23731588" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="13" weight="0.4091653" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3289689" />
+      <window_info anchor="bottom" id="TODO" order="15" weight="0.3289689" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Bean Validation" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3600605" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Mybatis datasource" order="10" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5018868" side_tool="true" weight="0.31240544" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.5923077" visible="true" weight="0.2753404" />
+      <window_info id="Structure" order="7" sideWeight="0.40920717" side_tool="true" weight="0.2753404" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" sideWeight="0.79878974" visible="true" weight="0.049099836" />
+      <window_info anchor="bottom" id="Spring" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.43862522" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.20121029" side_tool="true" weight="0.21931261" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.36006546" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.23731588" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="13" weight="0.4091653" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3289689" />
+      <window_info anchor="bottom" id="TODO" order="15" weight="0.3289689" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.3600605" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info anchor="right" id="Mybatis datasource" order="11" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hzero_cloud$TodoServiceApplication.ic" NAME="TodoServiceApplication Coverage Results" MODIFIED="1579055781020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/util/Pool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-pool2/2.5.0/commons-pool2-2.5.0.jar!/org/apache/commons/pool2/impl/LinkedBlockingDeque.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="335" selection-start-line="335" selection-end-line="335" />
+          <folding>
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-pool2/2.5.0/commons-pool2-2.5.0.jar!/org/apache/commons/pool2/impl/BaseGenericObjectPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#3950#3951#0" expanded="true" />
+            <element signature="e#4093#4094#0" expanded="true" />
+            <element signature="e#4139#4140#0" expanded="true" />
+            <element signature="e#4318#4319#0" expanded="true" />
+            <element signature="e#4359#4360#0" expanded="true" />
+            <element signature="e#8858#8859#0" expanded="true" />
+            <element signature="e#8892#8893#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-pool2/2.5.0/commons-pool2-2.5.0.jar!/org/apache/commons/pool2/impl/GenericObjectPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="510" selection-start-line="510" selection-end-line="510" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/HostAndPort.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Client.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/util/RedisInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#754#755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/util/SafeEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Protocol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="e#8509#8510#0" expanded="true" />
+            <element signature="e#8573#8574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/BinaryClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+          <folding>
+            <element signature="e#1405#1406#0" expanded="true" />
+            <element signature="e#1442#1443#0" expanded="true" />
+            <element signature="e#4229#4230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/BinaryJedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+          <folding>
+            <element signature="e#26780#26781#0" expanded="true" />
+            <element signature="e#26817#26818#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Connection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="307" selection-start-line="307" selection-end-line="307" />
+          <folding>
+            <element signature="e#2433#2434#0" expanded="true" />
+            <element signature="e#2491#2492#0" expanded="true" />
+            <element signature="e#2538#2539#0" expanded="true" />
+            <element signature="e#2580#2581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/util/RedisOutputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#1660#1661#0" expanded="true" />
+            <element signature="e#1691#1692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/net/SocketOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="160" column="25" selection-start-line="160" selection-start-column="25" selection-end-line="160" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-message/1.2.0.RELEASE/hzero-boot-message-1.2.0.RELEASE.jar!/org/hzero/boot/message/util/VelocityUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-message/1.2.0.RELEASE/hzero-boot-message-1.2.0.RELEASE.jar!/org/hzero/boot/message/MessageClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-message/1.2.0.RELEASE/hzero-boot-message-1.2.0.RELEASE.jar!/org/hzero/boot/message/SqlMessageGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-message/1.2.0.RELEASE/hzero-boot-message-1.2.0.RELEASE.jar!/org/hzero/boot/message/DefaultMessageGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="64" column="22" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/hzero-message-saas/0.11.1.RELEASE/hzero-message-saas-0.11.1.RELEASE.jar!/org/hzero/message/api/controller/v1/NoticeController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/hzero-message-saas/0.11.1.RELEASE/hzero-message-saas-0.11.1.RELEASE.jar!/org/hzero/message/api/controller/v1/NoticePublishedController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="93" column="29" lean-forward="true" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/api/controller/v1/MessageClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="77" column="48" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-import/1.2.0.RELEASE/hzero-boot-import-1.2.0.RELEASE.jar!/org/hzero/boot/imported/infra/validator/annotation/ImportService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/TodoServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar!/org/gjt/mm/mysql/Driver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar!/com/mysql/jdbc/Driver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-import/1.2.0.RELEASE/hzero-boot-import-1.2.0.RELEASE.jar!/org/hzero/boot/imported/infra/validator/annotation/ImportValidators.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-import/1.2.0.RELEASE/hzero-boot-import-1.2.0.RELEASE.jar!/org/hzero/boot/imported/infra/validator/annotation/ImportValidator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-message/1.2.0.RELEASE/hzero-boot-message-1.2.0.RELEASE.jar!/org/hzero/boot/message/service/EmailSender.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-scheduler/1.2.0.RELEASE/hzero-boot-scheduler-1.2.0.RELEASE.jar!/org/hzero/boot/scheduler/infra/enums/ReturnT.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/config/SwaggerApiConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/config/TodoExtraDataManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/handler/SchedulerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/impl/TaskServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE.jar!/org/springframework/core/task/TaskExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-import/1.2.0.RELEASE/hzero-boot-import-1.2.0.RELEASE.jar!/org/hzero/boot/imported/infra/execute/DataValidateExecute.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="78" column="18" lean-forward="true" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-import/1.2.0.RELEASE/hzero-boot-import-1.2.0.RELEASE.jar!/org/hzero/boot/imported/app/service/impl/TemplateClientServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="259" column="24" lean-forward="true" selection-start-line="259" selection-start-column="24" selection-end-line="259" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/hzero-import-saas/0.11.0.RELEASE/hzero-import-saas-0.11.0.RELEASE.jar!/org/hzero/imported/api/controller/v1/TemplateHeaderController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/handler/ImportHandlerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/impl/ValidateServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/TaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/impl/EmployeeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-import/1.2.0.RELEASE/hzero-boot-import-1.2.0.RELEASE.jar!/org/hzero/boot/imported/app/service/impl/ImportDataServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="185" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hzero/boot/hzero-boot-import/1.2.0.RELEASE/hzero-boot-import-1.2.0.RELEASE.jar!/org/hzero/boot/imported/api/controller/v1/DataImportController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="178" column="5" lean-forward="true" selection-start-line="178" selection-start-column="5" selection-end-line="178" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo-service/src/main/java/org/hzero/todoservice/app/service/impl/EmployeeImportServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2339#2340#0" expanded="true" />
+            <element signature="e#2436#2437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hzero-message</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.hzero:hzero-oauth:0.11.1.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hzero-platform" />
+        <module name="hzero-iam" />
+        <module name="hzero-importx" />
+        <module name="hzero-oauth" />
+        <module name="hzero-register" />
+        <module name="hzero-swagger" />
+        <module name="hzero-config" />
+        <module name="todo-service" />
+        <module name="hzero-message" />
+        <module name="hzero-file" />
+        <module name="hzero-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="file" target="1.8" />
+      <module name="hand-config" target="1.8" />
+      <module name="hzero-config" target="1.8" />
+      <module name="hzero-file" target="1.8" />
+      <module name="hzero-gateway" target="1.8" />
+      <module name="hzero-iam" target="1.8" />
+      <module name="hzero-import" target="1.8" />
+      <module name="hzero-importx" target="1.8" />
+      <module name="hzero-message" target="1.8" />
+      <module name="hzero-oauth" target="1.8" />
+      <module name="hzero-platform" target="1.8" />
+      <module name="hzero-register" target="1.8" />
+      <module name="hzero-swagger" target="1.8" />
+      <module name="hzero-todo-service" target="1.8" />
+      <module name="todo-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="file" options="-parameters" />
+      <module name="hand-config" options="-parameters" />
+      <module name="hzero-config" options="-parameters" />
+      <module name="hzero-file" options="-parameters" />
+      <module name="hzero-gateway" options="-parameters" />
+      <module name="hzero-iam" options="-parameters" />
+      <module name="hzero-import" options="-parameters" />
+      <module name="hzero-importx" options="-parameters" />
+      <module name="hzero-message" options="-parameters" />
+      <module name="hzero-oauth" options="-parameters" />
+      <module name="hzero-platform" options="-parameters" />
+      <module name="hzero-register" options="-parameters" />
+      <module name="hzero-swagger" options="-parameters" />
+      <module name="hzero-todo-service" options="-parameters" />
+      <module name="todo-service" options="-parameters" />
+    </option>
+  </component>
+</project>

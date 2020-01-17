@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/hzero-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzero-file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzero-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzero-iam" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzero-importx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzero-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzero-oauth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzero-platform" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzero-register" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzero-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hzero-todo-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/todo-service" charset="UTF-8" />
+  </component>
+</project>

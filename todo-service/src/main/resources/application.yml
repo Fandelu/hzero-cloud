@@ -1,0 +1,42 @@
+spring:
+  datasource:
+    url: ${SPRING_DATASOURCE_URL:jdbc:mysql://db.hzero.org:3306/todo_service?useUnicode=true&characterEncoding=utf-8&useSSL=false}
+    username: ${SPRING_DATASOURCE_USERNAME:hzero}
+    password: ${SPRING_DATASOURCE_PASSWORD:hzero}
+
+# MyBatis Mapper 扫描
+mybatis:
+  mapperLocations: classpath*:/mapper/*.xml
+  configuration:
+    mapUnderscoreToCamelCase: true
+
+eureka:
+  instance:
+    # 以IP注册到注册中心
+    preferIpAddress: ${EUREKA_INSTANCE_PREFER_IP_ADDRESS:true}
+    leaseRenewalIntervalInSeconds: 5
+    leaseExpirationDurationInSeconds: 10
+    metadata-map:
+      VERSION: 1.2.0
+  client:
+    serviceUrl:
+      defaultZone: ${EUREKA_DEFAULT_ZONE:http://192.168.123.102:8000/eureka}
+    registryFetchIntervalSeconds: 10
+    disable-delta: true
+
+# 日志配置
+logging:
+  level:
+    org.hzero: ${LOG_LEVEL:debug}
+    org.apache.ibatis: ${LOG_LEVEL:debug}
+    io.choerodon: ${LOG_LEVEL:debug}
+#开启值集
+hzero:
+  lov:
+    value:
+      enabled: true
+  import:
+    init-table: true
+  scheduler:
+    executor-code: 25497_EXECUTOR
+    auto-register: false

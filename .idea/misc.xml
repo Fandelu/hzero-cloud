@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/hzero-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/hzero-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/hzero-iam/pom.xml" />
+        <option value="$PROJECT_DIR$/hzero-oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/hzero-config/pom.xml" />
+        <option value="$PROJECT_DIR$/hzero-importx/pom.xml" />
+        <option value="$PROJECT_DIR$/hzero-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/todo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/hzero-register/pom.xml" />
+        <option value="$PROJECT_DIR$/hzero-file/pom.xml" />
+        <option value="$PROJECT_DIR$/hzero-message/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="F:/tools/jars/spring-framework-4.3.9.RELEASE-dist.zip!/spring-framework-4.3.9.RELEASE/schema/beans/spring-beans-4.3.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

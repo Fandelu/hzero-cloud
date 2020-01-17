@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="org.hzero.todoservice.infra.mapper.TaskMapper">
+    <!-- 可根据自己的需求，是否要使用 -->
+    <resultMap id="BaseResultMap" type="org.hzero.todoservice.domain.entity.Task">
+        <result column="id" property="id" jdbcType="DECIMAL"/>
+        <result column="emp_id" property="empId" jdbcType="DECIMAL"/>
+        <result column="state" property="state" jdbcType="VARCHAR"/>
+        <result column="task_number" property="taskNumber" jdbcType="VARCHAR"/>
+        <result column="task_description" property="taskDescription" jdbcType="VARCHAR"/>
+        <result column="tenant_id" property="tenantId" jdbcType="DECIMAL"/>
+        <result column="creation_date" property="creationDate" jdbcType="DATE"/>
+        <result column="object_version_number" property="objectVersionNumber" jdbcType="DECIMAL"/>
+        <result column="created_by" property="createdBy" jdbcType="DECIMAL"/>
+        <result column="last_updated_by" property="lastUpdatedBy" jdbcType="DECIMAL"/>
+        <result column="last_update_date" property="lastUpdateDate" jdbcType="DATE"/>
+
+        <result column="emp_name" property="empName" jdbcType="VARCHAR"/>
+        <result column="emp_number" property="empNumber" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <sql id="BaseSelectTask">
+        SELECT
+            tt.*,
+            te.emp_name,
+            te.emp_number
+        FROM
+            todo_task tt
+            JOIN todo_employee te ON tt.emp_id = te.id
+    </sql>
+
+    <select id="selectTask" parameterType="org.hzero.todoservice.domain.entity.Task"
+            resultType="org.hzero.todoservice.domain.entity.Task">
+        <include refid="BaseSelectTask"/>
+        <where>
+            <if test="id != null">
+                and tt.id = #{id}
+            </if>
+            <if test="tenantId != null">
+                and tt.tenant_id = #{tenantId}
+            </if>
+            <if test="taskNumber != null and taskNumber != ''">
+                and tt.task_number = #{taskNumber}
+            </if>
+            <if test="taskDescription != null and taskDescription != ''">
+                <bind name="taskDescriptionLike" value="'%'+taskDescription+'%'"/>
+                and tt.task_description like #{taskDescriptionLike}
+            </if>
+            <if test="empId != null">
+                and tt.emp_id = #{empId}
+            </if>
+        </where>
+    </select>
+</mapper>

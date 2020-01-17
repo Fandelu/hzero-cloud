@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hzero-cloud.iml" filepath="$PROJECT_DIR$/.idea/hzero-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzero-config/hzero-config.iml" filepath="$PROJECT_DIR$/hzero-config/hzero-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzero-file/hzero-file.iml" filepath="$PROJECT_DIR$/hzero-file/hzero-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzero-gateway/hzero-gateway.iml" filepath="$PROJECT_DIR$/hzero-gateway/hzero-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzero-iam/hzero-iam.iml" filepath="$PROJECT_DIR$/hzero-iam/hzero-iam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzero-importx/hzero-importx.iml" filepath="$PROJECT_DIR$/hzero-importx/hzero-importx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzero-message/hzero-message.iml" filepath="$PROJECT_DIR$/hzero-message/hzero-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzero-oauth/hzero-oauth.iml" filepath="$PROJECT_DIR$/hzero-oauth/hzero-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzero-platform/hzero-platform.iml" filepath="$PROJECT_DIR$/hzero-platform/hzero-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzero-register/hzero-register.iml" filepath="$PROJECT_DIR$/hzero-register/hzero-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzero-swagger/hzero-swagger.iml" filepath="$PROJECT_DIR$/hzero-swagger/hzero-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/todo-service/todo-service.iml" filepath="$PROJECT_DIR$/todo-service/todo-service.iml" />
+    </modules>
+  </component>
+</project>

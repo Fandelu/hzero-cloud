@@ -1,0 +1,33 @@
+server:
+  # 服务端口
+  port: 8088
+management:
+  server:
+    port: 8089
+  endpoints:
+    web:
+      exposure:
+        # 开放所有监控端点
+        include: '*'
+
+spring:
+  application:
+    name: todo-service
+  profiles:
+    active: ${SPRING_PROFILES_ACTIVE:default}
+  cloud:
+    config:
+      fail-fast: false
+      enabled: ${SPRING_CLOUD_CONFIG_ENABLED:false}
+      uri: ${SPRING_CLOUD_CONFIG_URI:http://192.168.123.102:8010}
+      retry:
+        maxAttempts: 6
+        multiplier: 1.1
+        maxInterval: 2000
+      # 标签
+      label: ${SPRING_CLOUD_CONFIG_LABEL:}
+    inetutils:
+      # 本地多网卡时，忽略回环网卡
+      ignored-interfaces[0]: lo
+      # 本地多网卡时，选择注册的网段
+      preferred-networks[0]: 10.8
